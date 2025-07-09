@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Udaan Translate API
 
 A lightweight, modular translation microservice built for **Project Udaan (IIT Bombay)**.  
